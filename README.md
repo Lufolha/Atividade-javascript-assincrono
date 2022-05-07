@@ -1,5 +1,6 @@
 # Atividade da Aula de JavaScript Assíncrono 😻
-Atividade prática para o curso de JavaScript Assíncrono, com utilização de API "catAPI", como parte do Bootcamp Carrefour Web Developer, realizado pela DIO.
+Atividade prática para o curso de JavaScript Assíncrono, com utilização de API "catAPI", como parte do  
+**Bootcamp Carrefour Web Developer**, realizado pela DIO.
 
 <img src="imgpg.png" width="700" height="500">
 
